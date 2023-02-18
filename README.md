@@ -13,17 +13,17 @@ To run this application, you will need the following software installed on your 
 - TensorFlow
 - Keras
 
-You can install the Python dependencies using the following ´command´:
-´´´
+You can install the Python dependencies using the following `command`:
+```
 pip install -r requirements.txt
-´´´
+```
 
 ## Usage
 
-To start the Flask development server, run the following ´command´:
-´´´
+To start the Flask development server, run the following `command`:
+```
 python app.py
-´´´
+```
 
 This will start the server on `http://localhost:5000/`. You can access the web interface by opening a web browser and navigating to this address.
 
